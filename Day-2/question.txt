@@ -1,0 +1,1 @@
+Print the digit in the given number

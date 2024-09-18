@@ -1,0 +1,9 @@
+//? Find the sum of the digits in a given number
+//? Find the product of the digits in a given number
+//? Find all the divisor of the number
+//? Check the given number is perfect number or not
+//? Find the sum of extreme digits sum and internal digits sum of given number
+//? Check whether the given number is prime number or not
+//? Given number is Amstrong Number or not
+//? Find the factorial of the given number
+//? Check the given number is strong number or not
