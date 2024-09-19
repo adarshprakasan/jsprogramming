@@ -8,3 +8,4 @@
 //? Find the number of capital letters and small letters of the given string
 //? From given string convert caps to small and small to caps
 //? Reverse the given string
+//? String is palindrome or not
