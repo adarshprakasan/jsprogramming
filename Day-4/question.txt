@@ -3,3 +3,8 @@
 //? Find the smallest digit in the number
 //? Check whether the given number is discerium number
 //? Check whether the given number is palindrome or not
+//? Count the number of vowels in the given string
+//? Print the ASCII Value of all the string characters
+//? Find the number of capital letters and small letters of the given string
+//? From given string convert caps to small and small to caps
+//? Reverse the given string
