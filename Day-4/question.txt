@@ -1,1 +1,3 @@
 //? Count the number of digits in a given number
+//? Find the biggest digit in the number
+//? Find the smallest digit in the number
