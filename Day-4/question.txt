@@ -2,3 +2,4 @@
 //? Find the biggest digit in the number
 //? Find the smallest digit in the number
 //? Check whether the given number is discerium number
+//? Check whether the given number is palindrome or not
