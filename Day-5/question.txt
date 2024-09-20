@@ -1,0 +1,1 @@
+//? Check whether the given character is present inside the string or not
