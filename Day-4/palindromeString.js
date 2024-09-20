@@ -25,5 +25,10 @@ function isPalindrome(str) {
   }
   return true;
 }
+let res = isPalindrome("mom");
 
-console.log(isPalindrome("mom"));
+if (res) {
+  console.log("Its Palindrome");
+} else {
+  console.log("Its not palindrome");
+}
