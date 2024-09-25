@@ -3,3 +3,5 @@
 //? Reverse the sentence. I/P: "The sky is blue". O/P: "blue is sky The".
 //? Reverse the words and reverse the sentence. I/P: "The sky is blue". O/P: "eulb si yks ehT".
 //? Check whether the given number is power of 3 or not
+//? Check whether the given 2 string is anagram or not
+//? Check whether the given sentence is pangram or not
