@@ -1,0 +1,5 @@
+//? Find the length of last word in a sentence
+//? Find the length of word which is having maximum length in the given sentence
+//? Reverse the sentence. I/P: "The sky is blue". O/P: "blue is sky The".
+//? Reverse the words and reverse the sentence. I/P: "The sky is blue". O/P: "eulb si yks ehT".
+//? Check whether the given number is power of 3 or not
