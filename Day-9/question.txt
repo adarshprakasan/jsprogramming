@@ -1,3 +1,8 @@
 //? Given the no. on the facce of dice, Print the number present on the opposite side of dice.
 //? Print floyd's triangle for given n values.
 //? Given a string, print the string in following format. I/P : "examination", O/P : "e9n".
+//? Tom is writing a secret message  using a string of text 'str'. However he accidentally mixed up two important characters that is ch1 and ch2. 
+    Now all instance of ch1 have termed in ch2, and ch2 has termed into ch1. Your mission is to help Tom by creating a function that will restore the 
+    original message. The function should take string str along with the 2 characters ch1 and ch2 and strap them back to their current places. 
+    so that the message is exactly as Tom intended it.
+//? Print the nth number in fibonacci series
