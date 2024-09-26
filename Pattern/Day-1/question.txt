@@ -6,9 +6,10 @@
 //? Print *, till n times starting from 1
 //? Print number, till n times starting from 1
 //? Print alphabets, till n times starting from 1
-//? n=4
 
-*   *
-**  *
-* **
-*   *
+//? Assignment-
+//? let n=4
+// *      *
+// * *    *
+// *   *  *
+// *      *

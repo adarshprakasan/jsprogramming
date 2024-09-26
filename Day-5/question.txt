@@ -1,2 +1,3 @@
 //? Check whether the given character is present inside the string or not
 //? Find the number of character occurance in a given string
+//? Print character according to the number in a given string
