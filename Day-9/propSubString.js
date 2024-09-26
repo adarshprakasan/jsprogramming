@@ -1,4 +1,5 @@
-//? Print all the possible substrings of a given word without repeating elements
+//? Print all the possible substrings of a given word without repeating elements.
+//? i/p : "ababacdefacde". o/p : 6 (bacdef)
 
 function propSubString(str) {
   let maxLen = -Infinity;
