@@ -6,3 +6,6 @@
     original message. The function should take string str along with the 2 characters ch1 and ch2 and strap them back to their current places. 
     so that the message is exactly as Tom intended it.
 //? Print the nth number in fibonacci series
+//? Find the number of valleys crossed by the person from the given string
+//? Print all the possible substrings of a given word
+//? Print all the possible substrings of a given word without repeating elements
