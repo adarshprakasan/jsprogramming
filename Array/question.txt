@@ -1,0 +1,9 @@
+//? Find  the sum of all elements in an array
+//? Find  the sum of even index elements in an array
+//? Find  the sum of odd elements in an array
+//? Count the number of even elements in an array
+//? Find  the sum of odd & even elements in an array
+//? Print the biggest element in a given array
+//? Print the smallest element in a given array
+//? Print the second biggest element in an array
+//? Print the second smallest element in an array
