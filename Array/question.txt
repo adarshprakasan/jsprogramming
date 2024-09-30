@@ -7,3 +7,11 @@
 //? Print the smallest element in a given array
 //? Print the second biggest element in an array
 //? Print the second smallest element in an array
+//? Implement Slice without in built method
+//? Print the running maximum element
+//? Check whether given element is present in array or not
+//? Print the adjacent element such that its sum is equal to the target
+//? Print the element which is greater than left element and smaller than next element
+//? Find any 2 index such that its sum is equal to the target
+//? Swap the adjacent elements in an array
+//? Rotate array by k times
