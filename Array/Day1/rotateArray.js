@@ -2,9 +2,12 @@
 
 function rotateArray(arr, k) {
   k = k % arr.length;
-  let arr2 = [];
-  for (i = 0; i < arr.length - k; i++) {
-    k--;
+  for (i = 0; i < k; i++) {
+    let temp = arr[arr.length - 1];
+    for (let j = arr.length - 1; j > 0; j--) {
+      arr[j] = arr[j - 1];
+    }
+    arr[0] = temp;
   }
   console.log(arr);
 }
