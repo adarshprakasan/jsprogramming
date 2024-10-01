@@ -1,0 +1,2 @@
+//? Fold array by k times
+//? Check whether the 3 consecutive elements are odd or not in an array
