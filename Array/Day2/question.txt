@@ -1,2 +1,4 @@
 //? Fold array by k times
 //? Check whether the 3 consecutive elements are odd or not in an array
+//? Insert element at a given position inside array
+//? Delete element at a given position inside array
