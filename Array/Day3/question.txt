@@ -3,3 +3,4 @@
 //? Reverse an array by using two pointer approach
 //? Reverse an array and print the sum of even index elements
 //? Check whether the consequtive elements are greater or not
+//? Sort an array in decreasing order
