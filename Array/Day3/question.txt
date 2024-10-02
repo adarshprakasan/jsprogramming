@@ -1,0 +1,5 @@
+//? Print the frequency of given element inside a given array
+//? Print the frequency of all elements inside a given array
+//? Reverse an array by using two pointer approach
+//? Reverse an array and print the sum of even index elements
+//? Check whether the consequtive elements are greater or not
