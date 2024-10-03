@@ -1,0 +1,3 @@
+//? Replace the duplicate elements by _ in the given array
+//? Remove the duplicate elements from given array
+//? Stock price at particular days are given. Find the mx profit that can be made.
