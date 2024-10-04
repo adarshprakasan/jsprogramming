@@ -1,0 +1,4 @@
+//? Find the sum of digits of the given number
+//? Find the factorial of given number
+//? Find the sum of elements in an Array
+//? Given a target N and a starting number A. Check whether you can reach the target by multiplying A by either 10 or 20 continuously.
