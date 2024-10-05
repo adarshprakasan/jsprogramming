@@ -4,8 +4,11 @@ function sumOfDigits(n) {
   if (n === 0) {
     return 0;
   }
-  num = n % 10;
+  sum = n % 10;
+  // if (sum < 0) {
+  //   return sumOfDigits(n) - sum;
+  // }
   n = Math.floor(n / 10);
-  return num + sumOfDigits(n);
+  return sum + sumOfDigits(n);
 }
-console.log(sumOfDigits(121));
+console.log(sumOfDigits(-121));

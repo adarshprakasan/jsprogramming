@@ -15,4 +15,3 @@
     4/0
     2/0
     1/1
-//? Find the sum of digits of the given number
