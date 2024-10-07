@@ -1,3 +1,5 @@
+//? Binary search for both ascending and descending array
+
 function binarySearch(arr, target) {
   let start = 0;
   let end = arr.length - 1;
