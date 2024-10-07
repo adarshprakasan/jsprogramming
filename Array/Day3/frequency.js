@@ -8,3 +8,4 @@ function frequency(arr, ele) {
   console.log(freq);
 }
 frequency([1, 2, 1, 3, 4, 1], 1);
+

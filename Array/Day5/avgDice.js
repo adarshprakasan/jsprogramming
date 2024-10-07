@@ -3,7 +3,6 @@
 //? rolls[i] is the value of the ith observation. You are also given two integers mean and n.
 
 function avgDice( rolls, n, mean) {
-    
- 
+     
 }
 avgDice([3, 2, 4, 3], 2, 4);

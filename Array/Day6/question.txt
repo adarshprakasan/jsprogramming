@@ -1,0 +1,4 @@
+//? Check whether the given array is strictly increasing or not
+//? Find the index of the given element in the array if its present
+//? Given an array replace all the elements according to the frequency in an array
+//? Print all the possible combination of given number from a keypad
