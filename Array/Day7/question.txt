@@ -1,0 +1,9 @@
+//? Convert 2D array to 1D array
+//? Find the sum of all the elements
+//? Print diagonal elements
+//? Find the sum of diagonal elements
+//? Print anti diagonal elements
+//? Find the sum of antidiagonal elements
+//? Transpose the given 2d array
+//? Sum of rows in 2d array
+//? Sum of Columns in 2d array
