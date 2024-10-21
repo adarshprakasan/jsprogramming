@@ -1,0 +1,6 @@
+//? An array element starting from nth index, each element will be (2*i)+1 You have to pick 2 elements. One these element you can perform following 
+    operations. For one element you can add or substract. Find the min no. of operations required to make the array equal.
+//? Sort the string in ascending order
+//? Match the corresponding tags
+//? Length of valid parenthesis
+//? Valid html tag or not

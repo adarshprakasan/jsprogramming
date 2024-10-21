@@ -1,0 +1,2 @@
+//? Write a program for pascal triangle
+//? Given an array, print the elements in an ascending order of its frequency
