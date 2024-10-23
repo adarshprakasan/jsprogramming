@@ -7,7 +7,7 @@ function mulTarget(n, a) {
   if (a > n) {
     return false;
   }
-  return mulTarget(n, a * 10);
+  return mulTarget(n, a * 10) || mulTarget(n, a * 20);
 }
 
 console.log(mulTarget(1000, 10));

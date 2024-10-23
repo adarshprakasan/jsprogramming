@@ -3,3 +3,6 @@
 //? Find the sum of elements in an Array
 //? Given a target N and a starting number A. Check whether you can reach the target by multiplying A by either 10 or 20 continuously.
 //? Find the sum of n natural numbers
+//? Print the nth Fibonacci using recurssion
+//? Print all the substring of given string
+//? Print all the anagram of given string
