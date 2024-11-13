@@ -5,5 +5,5 @@ class person {
   }
 }
 
-let person1 = new person("xyz", 23);
+let person1 = new person("<R<>5513<>VV", 23);
 console.log(person1);
